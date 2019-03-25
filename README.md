@@ -30,5 +30,5 @@ There are a sequence of blogs on using PHP and Serverless together at http://bad
 
 
 ### Thanks
-Big thanks to Andy Raines. For documentation on his serverless-php repo, point a browser to https://github.com/araines/serverless-php
+Big thanks to Andy Raines. For documentation on his serverless-php repo upon which this repo is based, point a browser to https://github.com/araines/serverless-php
 
